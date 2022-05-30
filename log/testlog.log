@@ -1,0 +1,126 @@
+2022-05-30 15:58:34,985 - StageAutomation -INFO - open url
+2022-05-30 15:58:36,224 - StageAutomation -INFO - entering email
+2022-05-30 15:58:38,335 - StageAutomation -INFO - entering password
+2022-05-30 15:58:43,410 - StageAutomation -INFO - click on signup button
+2022-05-30 15:58:45,647 - StageAutomation -INFO - selecting channel
+2022-05-30 15:58:49,768 - StageAutomation -INFO - ask to speak button click
+2022-05-30 15:58:51,863 - StageAutomation -INFO - join stage button click
+2022-05-30 15:58:53,943 - StageAutomation -INFO - unmute
+2022-05-30 15:58:56,089 - StageAutomation -INFO - mute
+2022-05-30 15:59:00,137 - StageAutomation -INFO - camera on
+2022-05-30 15:59:04,172 - StageAutomation -INFO - camera off
+2022-05-30 15:59:09,248 - StageAutomation -INFO - screen share on
+2022-05-30 15:59:12,297 - StageAutomation -INFO - screen share off
+2022-05-30 15:59:14,348 - StageAutomation -INFO - chat text click
+2022-05-30 15:59:16,558 - StageAutomation -INFO - entering chat 
+2022-05-30 15:59:19,689 - StageAutomation -INFO - chat send button click
+2022-05-30 15:59:22,760 - StageAutomation -INFO - chat option hide
+2022-05-30 15:59:25,818 - StageAutomation -INFO - chat option unhide
+2022-05-30 15:59:29,875 - StageAutomation -INFO - stage setting button click
+2022-05-30 15:59:33,202 - StageAutomation -INFO - create event page open
+2022-05-30 15:59:36,405 - StageAutomation -INFO - create event page close
+2022-05-30 15:59:40,454 - StageAutomation -INFO - setting opoen for deafen
+2022-05-30 15:59:44,572 - StageAutomation -INFO - click on deafen button
+2022-05-30 15:59:48,626 - StageAutomation -INFO - setting open for undefen
+2022-05-30 15:59:52,773 - StageAutomation -INFO - cl;ick on undeafen
+2022-05-30 15:59:56,825 - StageAutomation -INFO - second time enables camera
+2022-05-30 16:00:01,873 - StageAutomation -INFO - second tiome enables scrren screen share
+2022-05-30 16:00:05,912 - StageAutomation -INFO - setting button click for disabled video on stage
+2022-05-30 16:00:10,131 - StageAutomation -INFO - click on disbale video on stage
+2022-05-30 16:00:14,212 - StageAutomation -INFO - setting button click for enables video
+2022-05-30 16:00:18,316 - StageAutomation -INFO - click on enable video on stage
+2022-05-30 16:00:21,398 - StageAutomation -INFO - second time screen share off button click
+2022-05-30 16:04:05,553 - StageAutomation -INFO - open url
+2022-05-30 16:04:26,196 - StageAutomation -INFO - open url
+2022-05-30 16:04:27,420 - StageAutomation -INFO - entering email
+2022-05-30 16:04:29,528 - StageAutomation -INFO - entering password
+2022-05-30 16:04:34,587 - StageAutomation -INFO - click on signup button
+2022-05-30 16:04:36,814 - StageAutomation -INFO - selecting channel
+2022-05-30 16:04:40,896 - StageAutomation -INFO - ask to speak button click
+2022-05-30 16:04:43,013 - StageAutomation -INFO - join stage button click
+2022-05-30 16:04:45,133 - StageAutomation -INFO - unmute
+2022-05-30 16:04:47,208 - StageAutomation -INFO - mute
+2022-05-30 16:04:51,251 - StageAutomation -INFO - camera on
+2022-05-30 16:04:55,288 - StageAutomation -INFO - camera off
+2022-05-30 16:05:00,362 - StageAutomation -INFO - screen share on
+2022-05-30 16:05:03,414 - StageAutomation -INFO - screen share off
+2022-05-30 16:05:05,480 - StageAutomation -INFO - chat text click
+2022-05-30 16:05:07,690 - StageAutomation -INFO - entering chat 
+2022-05-30 16:05:10,771 - StageAutomation -INFO - chat send button click
+2022-05-30 16:05:13,839 - StageAutomation -INFO - chat option hide
+2022-05-30 16:05:16,888 - StageAutomation -INFO - chat option unhide
+2022-05-30 16:05:20,939 - StageAutomation -INFO - stage setting button click
+2022-05-30 16:05:24,308 - StageAutomation -INFO - create event page open
+2022-05-30 16:05:27,451 - StageAutomation -INFO - create event page close
+2022-05-30 16:05:31,553 - StageAutomation -INFO - setting opoen for deafen
+2022-05-30 16:05:35,701 - StageAutomation -INFO - click on deafen button
+2022-05-30 16:05:39,743 - StageAutomation -INFO - setting open for undefen
+2022-05-30 16:05:43,857 - StageAutomation -INFO - cl;ick on undeafen
+2022-05-30 16:05:47,907 - StageAutomation -INFO - second time enables camera
+2022-05-30 16:05:52,970 - StageAutomation -INFO - second tiome enables scrren screen share
+2022-05-30 16:05:57,059 - StageAutomation -INFO - setting button click for disabled video on stage
+2022-05-30 16:06:01,214 - StageAutomation -INFO - click on disbale video on stage
+2022-05-30 16:06:05,250 - StageAutomation -INFO - setting button click for enables video
+2022-05-30 16:06:09,403 - StageAutomation -INFO - click on enable video on stage
+2022-05-30 16:06:12,470 - StageAutomation -INFO - second time screen share off button click
+2022-05-30 16:06:23,648 - StageAutomation -INFO - 2nd user email entered
+2022-05-30 16:06:25,759 - StageAutomation -INFO - 2nd user password enter
+2022-05-30 16:06:30,821 - StageAutomation -INFO - 2nd user sign in button click
+2022-05-30 16:06:33,063 - StageAutomation -INFO - 2nd user go to channel 
+2022-05-30 16:06:37,141 - StageAutomation -INFO - 2nd user click on ask to speak button
+2022-05-30 16:06:39,235 - StageAutomation -INFO - 1st user click on participant section
+2022-05-30 16:06:47,299 - StageAutomation -INFO - accept the request
+2022-05-30 16:11:18,451 - StageAutomation -INFO - open url
+2022-05-30 16:11:19,692 - StageAutomation -INFO - entering email
+2022-05-30 16:11:21,782 - StageAutomation -INFO - entering password
+2022-05-30 16:11:26,885 - StageAutomation -INFO - click on signup button
+2022-05-30 16:11:29,698 - StageAutomation -INFO - selecting channel
+2022-05-30 16:11:33,800 - StageAutomation -INFO - ask to speak button click
+2022-05-30 16:11:35,880 - StageAutomation -INFO - join stage button click
+2022-05-30 16:11:37,964 - StageAutomation -INFO - unmute
+2022-05-30 16:11:40,045 - StageAutomation -INFO - mute
+2022-05-30 16:11:44,087 - StageAutomation -INFO - camera on
+2022-05-30 16:11:48,123 - StageAutomation -INFO - camera off
+2022-05-30 16:11:53,199 - StageAutomation -INFO - screen share on
+2022-05-30 16:11:56,250 - StageAutomation -INFO - screen share off
+2022-05-30 16:11:58,300 - StageAutomation -INFO - chat text click
+2022-05-30 16:12:00,484 - StageAutomation -INFO - entering chat 
+2022-05-30 16:12:03,609 - StageAutomation -INFO - chat send button click
+2022-05-30 16:12:06,659 - StageAutomation -INFO - chat option hide
+2022-05-30 16:12:09,712 - StageAutomation -INFO - chat option unhide
+2022-05-30 16:12:13,788 - StageAutomation -INFO - stage setting button click
+2022-05-30 16:12:17,294 - StageAutomation -INFO - create event page open
+2022-05-30 16:12:20,544 - StageAutomation -INFO - create event page close
+2022-05-30 16:12:24,594 - StageAutomation -INFO - setting opoen for deafen
+2022-05-30 16:12:28,707 - StageAutomation -INFO - click on deafen button
+2022-05-30 16:12:32,746 - StageAutomation -INFO - setting open for undefen
+2022-05-30 16:12:36,868 - StageAutomation -INFO - cl;ick on undeafen
+2022-05-30 16:12:40,950 - StageAutomation -INFO - second time enables camera
+2022-05-30 16:12:46,003 - StageAutomation -INFO - second tiome enables scrren screen share
+2022-05-30 16:12:50,064 - StageAutomation -INFO - setting button click for disabled video on stage
+2022-05-30 16:12:54,177 - StageAutomation -INFO - click on disbale video on stage
+2022-05-30 16:12:58,262 - StageAutomation -INFO - setting button click for enables video
+2022-05-30 16:13:02,360 - StageAutomation -INFO - click on enable video on stage
+2022-05-30 16:13:05,429 - StageAutomation -INFO - second time screen share off button click
+2022-05-30 16:13:18,059 - StageAutomation -INFO - 2nd user email entered
+2022-05-30 16:13:20,173 - StageAutomation -INFO - 2nd user password enter
+2022-05-30 16:13:25,233 - StageAutomation -INFO - 2nd user sign in button click
+2022-05-30 16:13:27,464 - StageAutomation -INFO - 2nd user go to channel 
+2022-05-30 16:13:31,521 - StageAutomation -INFO - 2nd user click on ask to speak button
+2022-05-30 16:13:33,611 - StageAutomation -INFO - 1st user click on participant section
+2022-05-30 16:13:41,676 - StageAutomation -INFO - accept the request
+2022-05-30 16:13:49,940 - StageAutomation -INFO - join stage button click
+2022-05-30 16:13:52,052 - StageAutomation -INFO - unmute 2nd user
+2022-05-30 16:13:54,109 - StageAutomation -INFO - mute 2nd user
+2022-05-30 16:13:58,155 - StageAutomation -INFO - 2nd user camera on
+2022-05-30 16:14:02,196 - StageAutomation -INFO - 2nd user camera off
+2022-05-30 16:14:07,261 - StageAutomation -INFO - 2nd user screen share on
+2022-05-30 16:14:10,320 - StageAutomation -INFO - 2nd user scrren share off
+2022-05-30 16:14:12,370 - StageAutomation -INFO - 2nd user chat textfield click
+2022-05-30 16:14:14,481 - StageAutomation -INFO - 2nd user text chat
+2022-05-30 16:14:16,556 - StageAutomation -INFO - 2nd user send chat button click
+2022-05-30 16:14:18,630 - StageAutomation -INFO - 1st useer chat click
+2022-05-30 16:14:20,729 - StageAutomation -INFO - 1st user enters text
+2022-05-30 16:14:22,864 - StageAutomation -INFO - 1st user send chat 
+2022-05-30 16:14:23,105 - StageAutomation -INFO - 1st user browser close
+2022-05-30 16:14:23,322 - StageAutomation -INFO - 2nd user browser close
